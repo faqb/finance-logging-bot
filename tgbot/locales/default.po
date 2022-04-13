@@ -1,0 +1,56 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-04-12 21:08+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/admin/handlers.py:45
+msgid ""
+"Add record: /add\n"
+"\n"
+"Check today statistics: /today\n"
+"Check month statistics: /month\n"
+"Get detailed month statistics: /detailed\n"
+"Select language: /lang\n"
+msgstr ""
+
+#: handlers/admin/handlers.py:78
+msgid ""
+"Select your language:\n"
+"\n"
+"English: /en\n"
+"Ukrainian: /uk\n"
+"Russian: /ru"
+msgstr ""
+
+#: handlers/admin/handlers.py:97
+msgid "Your language is: "
+msgstr ""
+
+#: handlers/admin/handlers.py:114
+msgid "Input [category price]"
+msgstr ""
+
+#: handlers/admin/handlers.py:124
+msgid "Your consumption was added!"
+msgstr ""
+
+#: handlers/admin/handlers.py:139
+msgid ""
+"Creating statistics with Google Sheets.\n"
+"It can takes some time..."
+msgstr ""
+

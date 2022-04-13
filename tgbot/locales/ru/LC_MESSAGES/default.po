@@ -1,0 +1,74 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-04-13 12:28+0300\n"
+"PO-Revision-Date: 2022-04-08 23:33+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: handlers/admin/handlers.py:45
+msgid ""
+"Add record: /add\n"
+"\n"
+"Check today statistics: /today\n"
+"Check month statistics: /month\n"
+"Get detailed month statistics: /detailed\n"
+"Select language: /lang\n"
+msgstr ""
+"Добавить запись: /add\n"
+"\n"
+"Посмотреть статистику за сегодня: /today\n"
+"Посмотреть статистику за месяц: /month\n"
+"Посмотреть подробную статистику за месяц: /detailed\n"
+"Выбрять язык: /lang"
+
+#: handlers/admin/handlers.py:78
+msgid ""
+"Select your language:\n"
+"\n"
+"English: /en\n"
+"Ukrainian: /uk\n"
+"Russian: /ru"
+msgstr ""
+"Выбрать язык:\n"
+"\n"
+"Английский: /en\n"
+"Украинский: /uk\n"
+"Русский: /ru"
+
+#: handlers/admin/handlers.py:97
+msgid "Your language is: "
+msgstr "Ваш язык: "
+
+#: handlers/admin/handlers.py:114
+msgid "Input [category price]"
+msgstr "Введите [категория цена]"
+
+#: handlers/admin/handlers.py:124
+msgid "Your consumption was added!"
+msgstr "Ваш расход был успешно добавлен!"
+
+#: handlers/admin/handlers.py:139
+msgid ""
+"Creating statistics with Google Sheets.\n"
+"It can takes some time..."
+msgstr ""
+"Создается статистика в Google Sheets.\n"
+"Это может занять некоторое время..."
+
+#~ msgid "Month info here"
+#~ msgstr "Информация за месяц"
+
